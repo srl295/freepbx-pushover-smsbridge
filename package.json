@@ -1,0 +1,15 @@
+{
+  "name": "@codehivetx/freepbx-pushover-smsbridge",
+  "version": "1.0.0",
+  "description": "Bridge between freepbx’s SMS and pushover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Steven R. Loomis <srl295@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "pushover-notifications": "^1.2.2"
+  }
+}
