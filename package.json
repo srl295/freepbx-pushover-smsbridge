@@ -11,5 +11,12 @@
   "license": "Apache-2.0",
   "dependencies": {
     "pushover-notifications": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srl295/freepbx-pushover-smsbridge.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

@@ -5,7 +5,7 @@ A bridge between [FreePBX SMS](https://freepbx.org) and Pushover
 ## Setup
 
 1. Create a Pushover account
-2. Set up the [SMS Webhook](https://wiki.freepbx.org/display/FPG/SMS+Webhook) to be something such as <http://yourhost.example.com:21439> ( see 'port' setting below.) I recommend running this locally only.
+2. Set up the [SMS Webhook](https://wiki.freepbx.org/display/FPG/SMS+Webhook) to be something such as <http://yourhost.example.com:21439> ( see 'port' setting below.) I recommend running this as localhost only. Set the webhook to 'receive'.
 3. Create the file `config.json`. ("//" entries are comments.)
 
 ```json
