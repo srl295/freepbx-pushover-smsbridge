@@ -2,6 +2,8 @@
 
 A bridge between [FreePBX SMS](https://freepbx.org) and Pushover
 
+[![npm version](https://badge.fury.io/js/@codehivetx%2Ffreepbx-pushover-smsbridge.svg)](https://badge.fury.io/js/@codehivetx%2Ffreepbx-pushover-smsbridge)
+
 ## Setup
 
 1. Create a Pushover account
